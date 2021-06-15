@@ -1,6 +1,6 @@
 ## (front-end) INFONEWSCL
 
-Infonewscl es una aplicación hecha en Ionic (Angular, TypeScript, Sass, html, Rxjs, Ngx)
+Infonewscl es una aplicación hecha en Ionic (Angular, TypeScript, Sass/Css, Html, Rxjs, Ngx)
 
 <img src="https://github.com/crislaez/InfoNewsCl/blob/master/src/assets/images/foto_proyecto_1.PNG" />
 <hr>
